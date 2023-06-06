@@ -13,6 +13,8 @@ This is a fullstack to do list application built with Laravel APIs at the backen
 
 ## Getting Started
 
+![Alt text](./hint.png "a title")
+
 ## Features
 
 -   Create, read, update, and delete to-dos
